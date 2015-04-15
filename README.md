@@ -1,2 +1,0 @@
-# TA
-file tuga akhir
